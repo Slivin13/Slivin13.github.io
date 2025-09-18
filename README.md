@@ -2,11 +2,11 @@
 
 A short description
 
-##Instalation 
+## Instalation 
 
 Steps to install and run the project.
 
-#Usage
+# Usage
 
 Examples of how to use the project
 
