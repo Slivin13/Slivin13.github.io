@@ -6,11 +6,11 @@ A short description
 
 Steps to install and run the project.
 
-#### Usage
+### Usage
 
 Examples of how to use the project
 
-###$ Authors
+#### Authors
 
 -Maksym Olov
 -Mykhaylo Maslyuk 
